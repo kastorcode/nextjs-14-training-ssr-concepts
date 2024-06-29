@@ -1,0 +1,13 @@
+@apiUrl = http://localhost:8000
+
+### List all events
+GET {{apiUrl}}/events
+
+### Get details of an event
+GET {{apiUrl}}/events/1
+
+
+@appUrl = http://localhost:3000
+
+### Clears an event's cache
+POST {{appUrl}}/api/events/1/revalidate
