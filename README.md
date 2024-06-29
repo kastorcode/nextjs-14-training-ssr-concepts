@@ -20,7 +20,7 @@
 ### Screenshots
 
 <p align="center">
-  <img src="screenshots/0.png" width="540" />
+  <img src="screenshots/0.png" width="668" />
   <img src="screenshots/1.png" width="332" />
   <img src="screenshots/2.png" width="332" />
 </p>
